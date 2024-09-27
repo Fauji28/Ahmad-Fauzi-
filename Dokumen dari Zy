@@ -1,0 +1,8 @@
+#include <stdio.h>
+int main()
+{
+	printf("NAMA : Ahmad Fauji Al Ghifari \n");
+	printf("NIM : 2441005 \n");
+	printf("JURUSAN : INFORMATIKA \n");
+	return 0;
+}
